@@ -21,8 +21,6 @@ Figma · HTML · CSS · JavaScript · PHP
 
 ## 📸 Prints do site
 
-> *(Você pode subir uma imagem chamada `screenshot-home.png` e mostrar aqui)*
-
 ![Página inicial](./screenshot-home.png)
 
 ## 📍 Status do projeto
